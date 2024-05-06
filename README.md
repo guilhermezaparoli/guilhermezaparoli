@@ -7,22 +7,28 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/guilherme-zaparoli-gomes-b979b5179/)
 
 ---
+
 <br/>
 <br/>
+
 ### Habilidades
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+
 ---
+
 <br/>
+
 ### GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilhermezaparoli&theme=onedark&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=guilhermezaparoli&layout=compact&theme=onedark&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 <br/>
 
 ### Total de visitantes
-![Top Langs](https://profile-counter.glitch.me/guilhermezaparoli/count.svg)
 
+![Total de visitantes](https://profile-counter.glitch.me/guilhermezaparoli/count.svg)
