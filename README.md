@@ -31,3 +31,4 @@
 
 ### Total de visitantes
 
+![Total de visitantes](https://profile-counter.glitch.me/guilhermezaparoli/count.svg)
