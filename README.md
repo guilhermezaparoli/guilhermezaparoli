@@ -4,7 +4,7 @@
   
 <br/>
 
-Sou um desenvolvedor Front-End apaixonado, com experiência na construção de aplicações web dinâmicas e responsivas. Minha especialidade é utilizar tecnologias web modernas para criar interfaces eficientes e amigáveis ao usuário.
+Sou um desenvolvedor Front-End, com experiência na construção de aplicações web dinâmicas e responsivas. Minha especialidade é utilizar tecnologias web modernas para criar interfaces eficientes e amigáveis ao usuário.
 
 ### Linguagens
 ![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge)
