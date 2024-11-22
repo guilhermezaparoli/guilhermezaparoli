@@ -5,7 +5,10 @@
 <br/>
 
 Sou um desenvolvedor Fullstack com experiência na construção de aplicações web e mobile dinâmicas, escaláveis e responsivas. 
-Domino React e React Native no desenvolvimento de interfaces intuitivas e eficientes, além de utilizar Node.js no back-end para criar soluções completas e de alto desempenho. Minha abordagem combina tecnologias modernas e boas práticas de desenvolvimento para entregar experiências excepcionais tanto para web quanto para dispositivos móveis.
+<br/>
+Domino React e React Native no desenvolvimento de interfaces intuitivas e eficientes, além de utilizar Node.js no back-end para criar soluções completas e de alto desempenho. 
+<br/>
+Minha abordagem combina tecnologias modernas e boas práticas de desenvolvimento para entregar experiências excepcionais tanto para web quanto para dispositivos móveis.
 
 ### Linguagens
 ![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge)
