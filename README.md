@@ -4,9 +4,9 @@
   
 <br/>
 
-Sou um desenvolvedor Fullstack com experiência na construção de aplicações web e mobile dinâmicas, escaláveis e responsivas. 
+Sou um desenvolvedor Front-end com experiência na construção de aplicações web e mobile dinâmicas, escaláveis e responsivas. 
 <br/>
-Domino React e React Native no desenvolvimento de interfaces intuitivas e eficientes, além de utilizar Node.js no back-end para criar soluções completas e de alto desempenho. 
+Domino Reactjs e React Native no desenvolvimento de interfaces intuitivas e eficientes, além de utilizar Node.js no back-end para criar soluções completas e de alto desempenho. 
 <br/>
 Minha abordagem combina tecnologias modernas e boas práticas de desenvolvimento para entregar experiências excepcionais tanto para web quanto para dispositivos móveis.
 
